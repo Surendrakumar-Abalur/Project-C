@@ -1,5 +1,4 @@
-#include <stdio.h
->
+#include <stdio.h>
 void biggest2();
 void factorial();
 
